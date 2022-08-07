@@ -1,0 +1,18 @@
+{
+    "male": {
+        "firstName": "Adam",
+        "lastName": "Jones"
+    },
+    "female": {
+        "firstName": "Jenny",
+        "lastName": "Billings"
+    },
+    "password": "Passw0rd!",
+    "company": "Wipro",
+    "address": "1, Rocking Road",
+    "addressLine2": "Amazing Zone",
+    "city": "Wonderful City",
+    "country": "United States",
+    "mobileNumber": 7372498583,
+    "addressAliasName": "My Home Address"
+}
