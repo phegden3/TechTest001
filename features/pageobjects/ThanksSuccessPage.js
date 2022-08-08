@@ -10,7 +10,7 @@ class ThanksSuccessPage {
     //methods on Thank You, Page
     async completePage() {
         //let txtThankYouSuccessMsg = browser.$('//h2[text()="Thank you " and text()="' + state.firstname + '" and text()=" for your donation of £" and text()="' + state.amount + '"]');
-        await this.msgThankYou.waitForDisplayed(15000);
+        await this.msgThankYou.waitForDisplayed();
         if (donor.giftaid === "yes") {
             await this.imgGiftAdded.waitForDisplayed();
         }

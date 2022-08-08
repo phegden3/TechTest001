@@ -34,6 +34,7 @@ class PaymentPage {
             await this.radiobtnGiftAid.click();
         }
         await this.btnCompleteDonation.click();
+        await browser.pause(5000);
     }
 
 }
