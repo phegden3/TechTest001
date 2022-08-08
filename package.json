@@ -9,18 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashu95temp/practiceRepo.git"
+    "url": "git+https://github.com/phegden3/TechTest001.git",
+    git@github.com:phegden3/TechTest001.git,
+    https://github.com/phegden3/TechTest001.git
   },
   "keywords": [
     "Automation",
     "WebdriverIO"
   ],
-  "author": "Ashutosh Wani",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ashu95temp/practiceRepo/issues"
+    "url": "https://github.com/phegden3/TechTest001/issues"
   },
-  "homepage": "https://github.com/ashu95temp/practiceRepo#readme",
+  "homepage": "https://github.com/phegden3/TechTest001#readme",
   "devDependencies": {
     "@babel/core": "^7.18.2",
     "@babel/preset-env": "^7.18.2",
