@@ -1,0 +1,214 @@
+{
+  "app": 0,
+  "customMetadata": false,
+  "customData": null,
+  "style": "style.css",
+  "useCDN": false,
+  "hideMetadata": false,
+  "displayReportTime": true,
+  "displayDuration": false,
+  "browser": 1,
+  "name": "",
+  "version": "version",
+  "time": "2022-08-08T05:09:26.792Z",
+  "features": [
+    {
+      "metadata": {
+        "reportTime": "2022/08/08 06:09:26",
+        "browser": {
+          "name": "chrome",
+          "version": "104.0.5112.79"
+        },
+        "device": "Device name not known",
+        "platform": {
+          "name": "osx",
+          "version": "Version not known"
+        }
+      },
+      "keyword": "Feature",
+      "type": "feature",
+      "description": "",
+      "line": 1,
+      "name": "Donation flow on cruk donation application functionality",
+      "uri": "/Users/ladypikachu/Documents/MyProjects/Automation/TechTest001/features/featureFiles/donationFlow.feature",
+      "tags": [],
+      "elements": [
+        {
+          "keyword": "Scenario",
+          "type": "scenario",
+          "description": "",
+          "name": "As a user, I will perform donation",
+          "tags": [],
+          "id": "donation-flow-on-cruk-donation-application-functionality;as-a-user,-i-will-perform-donation",
+          "steps": [
+            {
+              "arguments": [],
+              "keyword": "Before",
+              "name": "",
+              "result": {
+                "status": "passed",
+                "duration": 1000000
+              },
+              "line": null,
+              "match": {
+                "location": "can not be determined with webdriver.io"
+              },
+              "time": "00:00:00.001"
+            },
+            {
+              "arguments": [],
+              "keyword": "Given",
+              "name": "I Launch cruk donation application",
+              "result": {
+                "status": "passed",
+                "duration": 16819000000
+              },
+              "line": null,
+              "match": {
+                "location": "can not be determined with webdriver.io"
+              },
+              "time": "00:00:16.819"
+            },
+            {
+              "arguments": [],
+              "keyword": "When",
+              "name": "Donation details entered on donation page",
+              "result": {
+                "status": "passed",
+                "duration": 5962000000
+              },
+              "line": null,
+              "match": {
+                "location": "can not be determined with webdriver.io"
+              },
+              "time": "00:00:05.962"
+            },
+            {
+              "arguments": [],
+              "keyword": "And",
+              "name": "Details data entered in details page",
+              "result": {
+                "status": "passed",
+                "duration": 6925000000
+              },
+              "line": null,
+              "match": {
+                "location": "can not be determined with webdriver.io"
+              },
+              "time": "00:00:06.925"
+            },
+            {
+              "arguments": [],
+              "keyword": "And",
+              "name": "Card payment completed",
+              "result": {
+                "status": "passed",
+                "duration": 10585000000
+              },
+              "line": null,
+              "match": {
+                "location": "can not be determined with webdriver.io"
+              },
+              "time": "00:00:10.585"
+            },
+            {
+              "arguments": [],
+              "keyword": "Then",
+              "name": "Thank you page must be displayed with success message",
+              "result": {
+                "status": "passed",
+                "duration": 8897000000
+              },
+              "line": null,
+              "match": {
+                "location": "can not be determined with webdriver.io"
+              },
+              "time": "00:00:08.897"
+            },
+            {
+              "arguments": [],
+              "keyword": "After",
+              "name": "",
+              "result": {
+                "status": "passed",
+                "duration": 1000000
+              },
+              "line": null,
+              "match": {
+                "location": "can not be determined with webdriver.io"
+              },
+              "time": "00:00:00.001"
+            }
+          ],
+          "passed": 7,
+          "failed": 0,
+          "notDefined": 0,
+          "skipped": 0,
+          "pending": 0,
+          "ambiguous": 0,
+          "duration": 49190000000,
+          "time": "00:00:49.190"
+        }
+      ],
+      "id": "56be3e45-4fce-4884-847b-9e2cd468ea93-donation-flow-on-cruk-donation-application-functionality",
+      "scenarios": {
+        "passed": 1,
+        "failed": 0,
+        "notDefined": 0,
+        "skipped": 0,
+        "pending": 0,
+        "ambiguous": 0,
+        "passedPercentage": "100.00",
+        "failedPercentage": "0.00",
+        "notDefinedPercentage": "0.00",
+        "skippedPercentage": "0.00",
+        "pendingPercentage": "0.00",
+        "ambiguousPercentage": "0.00",
+        "total": 1
+      },
+      "duration": 49190000000,
+      "time": "00:00:49.190",
+      "isFailed": false,
+      "isAmbiguous": false,
+      "isSkipped": false,
+      "isNotdefined": false,
+      "isPending": false,
+      "app": 0,
+      "browser": 0,
+      "passed": null,
+      "totalTime": null
+    }
+  ],
+  "featureCount": {
+    "ambiguous": 0,
+    "failed": 0,
+    "passed": 1,
+    "notDefined": 0,
+    "pending": 0,
+    "skipped": 0,
+    "total": 1,
+    "ambiguousPercentage": "0.00",
+    "failedPercentage": "0.00",
+    "notDefinedPercentage": "0.00",
+    "pendingPercentage": "0.00",
+    "skippedPercentage": "0.00",
+    "passedPercentage": "100.00"
+  },
+  "reportName": "CRUK donation flow ff execution report - 08082022-060926.775",
+  "scenarios": {
+    "failed": 0,
+    "ambiguous": 0,
+    "notDefined": 0,
+    "pending": 0,
+    "skipped": 0,
+    "passed": 1,
+    "total": 1,
+    "ambiguousPercentage": "0.00",
+    "failedPercentage": "0.00",
+    "notDefinedPercentage": "0.00",
+    "passedPercentage": "100.00",
+    "pendingPercentage": "0.00",
+    "skippedPercentage": "0.00"
+  },
+  "totalTime": 0
+}
