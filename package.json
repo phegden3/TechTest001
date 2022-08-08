@@ -9,9 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phegden3/TechTest001.git",
-    git@github.com:phegden3/TechTest001.git,
-    https://github.com/phegden3/TechTest001.git
+    "url": "git+https://github.com/phegden3/TechTest001.git"
   },
   "keywords": [
     "Automation",
