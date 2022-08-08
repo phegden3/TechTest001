@@ -432,7 +432,7 @@ export const config = {
     reportGenerate.generate({
       jsonDir: "./reports/jsonReports/",
       reportPath: `./reports/cucumberHtmlReports/`,
-      reportName: `Automation Pratice Dummy Website Regression Suite - ${timestamp}`,
+      reportName: `CRUK donation flow ff execution report - ${timestamp}`,
       saveCollectedJSON: true,
       openReportInBrowser: true,
       displayReportTime: true,

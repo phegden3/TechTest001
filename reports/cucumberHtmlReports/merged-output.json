@@ -1,0 +1,127 @@
+[
+  {
+    "metadata": {
+      "reportTime": "2022/08/08 06:09:26",
+      "browser": {
+        "name": "chrome",
+        "version": "104.0.5112.79"
+      },
+      "device": "Device name not known",
+      "platform": {
+        "name": "osx",
+        "version": "Version not known"
+      }
+    },
+    "keyword": "Feature",
+    "type": "feature",
+    "description": "",
+    "line": 1,
+    "name": "Donation flow on cruk donation application functionality",
+    "uri": "/Users/ladypikachu/Documents/MyProjects/Automation/TechTest001/features/featureFiles/donationFlow.feature",
+    "tags": [],
+    "elements": [
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "As a user, I will perform donation",
+        "tags": [],
+        "id": "donation-flow-on-cruk-donation-application-functionality;as-a-user,-i-will-perform-donation",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "I Launch cruk donation application",
+            "result": {
+              "status": "passed",
+              "duration": 16819000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "Donation details entered on donation page",
+            "result": {
+              "status": "passed",
+              "duration": 5962000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Details data entered in details page",
+            "result": {
+              "status": "passed",
+              "duration": 6925000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "Card payment completed",
+            "result": {
+              "status": "passed",
+              "duration": 10585000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "Thank you page must be displayed with success message",
+            "result": {
+              "status": "passed",
+              "duration": 8897000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "donation-flow-on-cruk-donation-application-functionality"
+  }
+]
